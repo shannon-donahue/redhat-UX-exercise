@@ -1,15 +1,15 @@
 body{
-	background-color: lightgrey;
+	background-color: #F1F1F1;
 	font-family: Arial, sans-serif;
 }
 
 article{
 	position: relative;
 	background-color: white;
-	width: 550px;
+	width: 500px;
 	height: 300px;
 	border-radius: 2px;
-	margin: 25px;
+	margin: 14px;
 	box-shadow: 0px 0px 3px #888888;
 	-moz-box-shadow: 0px 0px 3px #888888;
 }
@@ -39,7 +39,7 @@ a:link{
 
 header{
 	position: relative;
-	top: 30%;
+	top: 35%;
 	left: 10%;
 }
 
