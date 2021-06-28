@@ -1,3 +1,7 @@
+*{
+	box-sizing: border-box;
+}
+
 #cardcontainer{
 	width: 600px;
 	height: 300px;
@@ -67,4 +71,45 @@ span{
 h2{
 	display: inline;
 	font-size: 20px;
+}
+
+#pageName{
+	position: relative;
+	top: 20px;
+	left: 30px;
+}
+
+
+.column{
+	float: left;
+	width: 33%;
+	height: 250px;
+	padding: 10px 10px;
+}
+
+.row{
+	margin: 0 -5px;
+}
+
+.row:after
+{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+article:hover{
+	background-color: #F1F7F9;
+	box-shadow: 0px 0px 7px #888888;
+	-moz-box-shadow: 0px 0px 7px #888888;
+}
+
+
+@media screen and (max-width: 950px) {
+	.column
+	{
+		width: 100%;
+		display: block;
+		margin-bottom: 10px;
+	}
 }
