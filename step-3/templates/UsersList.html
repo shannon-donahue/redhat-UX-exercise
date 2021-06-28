@@ -22,7 +22,7 @@
 							<img src = "{{users['avatar']}}">
 				
 							
-							<a href = "#"><i class="bi bi-info-circle"></i> See details</a>
+							<a href = "{{url_for('userRoutes.UserDetail', userID = users['id'])}}"><i class="bi bi-info-circle"></i> See details</a>
 							
 				
 							<div id = "identity">
