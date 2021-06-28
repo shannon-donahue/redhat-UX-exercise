@@ -12,7 +12,7 @@
 	float: left;
 	width: 33%;
 	height: 250px;
-	padding: 0 10px;
+	padding: 10px 10px;
 }
 
 .row{
@@ -33,7 +33,7 @@ article:hover{
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 950px) {
 	.column
 	{
 		width: 100%;
