@@ -20,7 +20,7 @@ Python 3.8.3
 ### Step-1
 1. In browser url: 
 	- .../redhat-UX-exercise/step-1/Card.html
-	- - Example: /Users/shannondonahue/RedHat/redhat-UX-exercise/step-1/card.html 
+		- Example: /Users/shannondonahue/RedHat/redhat-UX-exercise/step-1/card.html 
 
 ### step-2
 1. In browser url: 
