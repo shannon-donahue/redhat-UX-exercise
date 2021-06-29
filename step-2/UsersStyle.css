@@ -108,6 +108,7 @@ article:hover{
 @media screen and (max-width: 950px) {
 	.column
 	{
+		/* preferred at 90% but full width required*/
 		width: 100%;
 		display: block;
 		margin-bottom: 10px;
