@@ -3,7 +3,6 @@ interview exercise for UX team at Red hat
 
 ## Requirements
 Python 3.8.3
-Flask 
 
 ## Installation
 1. $ git clone https://github.com/shannon-donahue/redhat-UX-exercise.git <project_dir>
